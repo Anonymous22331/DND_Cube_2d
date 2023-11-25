@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 9ceb3e9647a1ce94b8bda72bbd0b92a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1336665283319779291
+    second: D20_Dice_Roll_1
+  - first:
+      213: 5540826028333947093
+    second: D20_Dice_Roll_2
+  - first:
+      213: 6594494964045735525
+    second: D20_Dice_Roll_3
+  - first:
+      213: -1274539579371905897
+    second: D20_Dice_Roll_4
+  - first:
+      213: 2790509682700165238
+    second: D20_Dice_Roll_5
+  - first:
+      213: -493053258445722103
+    second: D20_Dice_Roll_6
+  - first:
+      213: -3103158159097277125
+    second: D20_Dice_Roll_7
+  - first:
+      213: -852393402199574200
+    second: D20_Dice_Roll_8
+  - first:
+      213: -1971504805394003115
+    second: D20_Dice_Roll_9
+  - first:
+      213: -5187137286577522098
+    second: D20_Dice_Roll_10
+  - first:
+      213: -8285951050731517920
+    second: D20_Dice_Roll_11
+  - first:
+      213: -4234874062376973163
+    second: D20_Dice_Roll_12
+  - first:
+      213: -635543778655724261
+    second: D20_Dice_Roll_13
+  - first:
+      213: 2175176887196504295
+    second: D20_Dice_Roll_14
+  - first:
+      213: -516727350650527328
+    second: D20_Dice_Roll_15
+  - first:
+      213: 4217473325629075637
+    second: D20_Dice_Roll_16
+  - first:
+      213: 393600481470501492
+    second: D20_Dice_Roll_17
+  - first:
+      213: 3416327406025711161
+    second: D20_Dice_Roll_18
+  - first:
+      213: 4577165757093837016
+    second: D20_Dice_Roll_19
+  - first:
+      213: 107825786230296895
+    second: D20_Dice_Roll_20
+  - first:
+      213: 2815425971264531590
+    second: D20_Dice_Roll_Animation_1
+  - first:
+      213: -4236947921569528446
+    second: D20_Dice_Roll_Animation_2
+  - first:
+      213: 4104597491283331780
+    second: D20_Dice_Roll_Animation_3
+  - first:
+      213: -1843023724279575502
+    second: D20_Dice_Roll_Animation_4
+  - first:
+      213: -3188622621834098590
+    second: D20_Dice_Roll_Animation_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: D20_Dice_Roll_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b02cb106337de0800000000000000
+      internalID: -1336665283319779291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 683.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8551d8ae7f4ec40800000000000000
+      internalID: 5540826028333947093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 683.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5666c0d0b3a548b50800000000000000
+      internalID: 6594494964045735525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 683.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c9c5f510def4ee0800000000000000
+      internalID: -1274539579371905897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 683.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670a1ab85c1e9b620800000000000000
+      internalID: 2790509682700165238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 159
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e6efa7ca25829f0800000000000000
+      internalID: -493053258445722103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 513
+        width: 159
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35d625781e5fe4d0800000000000000
+      internalID: -3103158159097277125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 513.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849f10587b0bb24f0800000000000000
+      internalID: -852393402199574200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 513.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bc38133dec3a4e0800000000000000
+      internalID: -1971504805394003115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 513.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4afc58de169308b0800000000000000
+      internalID: -5187137286577522098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0288fd29b63620d80800000000000000
+      internalID: -8285951050731517920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 343.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c41834a74ba35c0800000000000000
+      internalID: -4234874062376973163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 343
+        width: 159
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d1402fc481e27f0800000000000000
+      internalID: -635543778655724261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 343.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0dcf4bad7cf2e10800000000000000
+      internalID: 2175176887196504295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 343.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a12fba563734d8f0800000000000000
+      internalID: -516727350650527328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 159
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b07ecff4a9778a30800000000000000
+      internalID: 4217473325629075637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 173
+        width: 159
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472d8717d89567500800000000000000
+      internalID: 393600481470501492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 173.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e1890ecab396f20800000000000000
+      internalID: 3416327406025711161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 173.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8f8a5510c558f30800000000000000
+      internalID: 4577165757093837016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 173.2
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3152e53bf21f7100800000000000000
+      internalID: 107825786230296895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 159
+        height: 171
+      alignment: 9
+      pivot: {x: 1.8948961, y: -1.639396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca1ac0107621720800000000000000
+      internalID: 2815425971264531590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 159
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285c40b40565335c0800000000000000
+      internalID: -4236947921569528446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3.199997
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca07e5dba576f830800000000000000
+      internalID: 4104597491283331780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4
+        width: 147
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cc2b100b34c66e0800000000000000
+      internalID: -1843023724279575502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D20_Dice_Roll_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3.199997
+        width: 158.6
+        height: 170.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268cdc69e9cbfb3d0800000000000000
+      internalID: -3188622621834098590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
